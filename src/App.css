@@ -5,7 +5,7 @@
   justify-content: center;
 }
 
-.right-elements{
+.right-elements {
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -13,11 +13,11 @@
   justify-content: center;
 }
 
-#video-track{
+#video-track {
   width: 30rem;
   height: 30rem;
 }
-.screenshot{
+.screenshot {
   height: 20rem;
   margin: 5rem;
 }
